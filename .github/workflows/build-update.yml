@@ -1,0 +1,43 @@
+name: Build Update JSON
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - update.yml
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # Checkout repo
+      - uses: actions/checkout@v4
+
+      # Setup Python
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      # Install PyYAML
+      - run: pip install pyyaml
+
+      # Convert update.yml → update.json
+      - run: |
+          python <<EOF
+          import yaml, json
+          with open("update.yml", "r", encoding="utf-8") as f:
+              data = yaml.safe_load(f)
+          with open("update.json", "w", encoding="utf-8") as f:
+              json.dump(data, f, ensure_ascii=False, indent=2)
+          EOF
+
+      # Commit & Push ke builds branch dengan ModSanzz sebagai contributor
+      - run: |
+          git config user.name "CloudPlay-Bot"
+          git config user.email "bot@github.com"
+          git checkout --orphan builds
+          git rm -rf .
+          git add update.json
+          git commit -m "build: publish update.json"
+          git push origin builds --force
