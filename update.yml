@@ -1,16 +1,21 @@
-versionCode: 100
-versionName: "1.6.0"
+versionCode: 75
+versionName: "1.6.1"
 
 changelog: |
-  🚀 Pembaruan Terbaru Tersedia
+  🚀 Versi Terbaru Telah Hadir!
 
-  Versi ini difokuskan pada peningkatan stabilitas
-  dan kompatibilitas di berbagai perangkat.
+  ⚠️ Catatan: Jangan timpa aplikasi lama!  
+  Link migrasi resmi: [Download di sini](https://uploadflare.net/Pbe3PqBQzlX6/file)
 
-  ✨ Perubahan:
-  • Optimalisasi performa
-  • Dukungan Android 15–16+
-  • Penyempurnaan sistem repository
-  • Perbaikan bug minor
+  Nikmati pengalaman menonton yang lebih lengkap dengan tambahan provider baru
+  dan pembaruan sistem extractor.
 
-apk: ""
+  ✨ Fitur & Perbaikan:
+  • Penambahan provider/repository baru yang sebelumnya belum tersedia
+  • Performa aplikasi lebih cepat dan ringan
+  • Dukungan penuh untuk Android 15–16+
+  • Penyempurnaan sistem repository & pencarian
+  • Bug minor diperbaiki untuk pengalaman lebih mulus
+  • Stabilitas umum ditingkatkan
+
+apk: "https://uploadflare.net/Pbe3PqBQzlX6/file"
