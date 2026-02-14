@@ -1,23 +1,34 @@
-versionCode: 75
-versionName: "1.6.1"
+versionCode: 76
+versionName: "1.6.2"
 
 changelog: |
-  ☁️ Update CloudPlay v1.6.1
+  🚀 Versi Terbaru CloudPlay v1.6.2 Telah Hadir!
 
-  🚀 Versi Terbaru Telah Hadir!
+  ✅ Update ini aman ditimpa langsung
+  Tidak perlu uninstall versi sebelumnya.
 
-  ⚠️ Catatan: Jangan timpa aplikasi lama!  
-  Link migrasi
+  ✨ Fitur Baru:
+  • Penambahan episode langsung di player
+  • Provider pinning untuk akses lebih cepat
+  • Pencarian dengan sistem halaman (paginated search)
+  • Link film & TV show bisa dibagikan
+  • Custom profile photo
+  • Play mirror untuk alternatif pemutaran
+  • Preview TV channel
+  • Dialog pengaturan kecepatan pemutaran baru
+  • Fitur hapus plugin/provider .cs3 untuk mengatasi provider dobel
+  • **Fitur Download All (unduh semua episode sekaligus)**
 
-  Nikmati pengalaman menonton yang lebih lengkap dengan tambahan provider baru
-  dan pembaruan sistem extractor.
+  🔧 Pembaruan & Perbaikan:
+  • Penyempurnaan fokus navigasi TV
+  • Update sistem subtitle & localization
+  • Update autentikasi
+  • Penyempurnaan UI
+  • Update dependencies
+  • Perbaikan & pembaruan extractor
+  • Perbaikan performa
+  • Perbaikan crash
+  • Perbaikan bug umum
+  • Small quality of life improvements
 
-  ✨ Fitur & Perbaikan:
-  • Penambahan provider/repository baru yang sebelumnya belum tersedia
-  • Performa aplikasi lebih cepat dan ringan
-  • Dukungan penuh untuk Android 15–16+
-  • Penyempurnaan sistem repository & pencarian
-  • Bug minor diperbaiki untuk pengalaman lebih mulus
-  • Stabilitas umum ditingkatkan
-
-apk: "https://uploadflare.net/Pbe3PqBQzlX6/file"
+apk: "https://uploadflare.net/qLQ36Bk7319j/file"
