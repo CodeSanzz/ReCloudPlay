@@ -3,5 +3,13 @@ versionName: "1.6.5"
 
 changelog: |
   🚀 CloudPlay v1.6.5
+  • Update base CloudStream ke versi terbaru
+  • Sinkronisasi source dan plugin terbaru
+  • Perbaikan bug agar aplikasi lebih stabil
+  • Optimalisasi performa pada perangkat low-end
+  • Penyempurnaan sistem player dan subtitle
+  • Perbaikan bug hang/stag saat keluar dari APK/STB
+  • Peningkatan kecepatan loading dan pemutaran video
+  • Penyesuaian tampilan agar lebih nyaman digunakan
 
-apk: "https://sfile.co/8IHPrOvr5Sz"
+apk: "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk"
