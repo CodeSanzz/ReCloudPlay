@@ -1,0 +1,6 @@
+{
+  "versionCode": 79,
+  "versionName": "1.6.5",
+  "changelog": "🚀 CloudPlay v1.6.5\n• Update base CloudStream ke versi terbaru\n• Sinkronisasi source dan plugin terbaru\n• Perbaikan bug agar aplikasi lebih stabil\n• Optimalisasi performa pada perangkat low-end\n• Penyempurnaan sistem player dan subtitle\n• Perbaikan bug hang/stag saat keluar dari APK/STB\n• Peningkatan kecepatan loading dan pemutaran video\n• Penyesuaian tampilan agar lebih nyaman digunakan\n",
+  "apk": "https://github.com/recloudstream/cloudstream/releases/download/v4.7.0/4.7.0.apk"
+}
