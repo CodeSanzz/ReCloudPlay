@@ -1,15 +1,7 @@
 versionCode: 78
-versionName: "1.6.4"
+versionName: "1.6.5"
 
 changelog: |
-  🚀 CloudPlay v1.6.4
-  • Sinkronisasi dengan source terbaru
-  • Perbaikan bug untuk meningkatkan kestabilan aplikasi
-  • Optimalisasi performa pada perangkat berspesifikasi rendah
-  • Penyempurnaan sistem pemutar dan plugin
-  • Peningkatan kecepatan pemuatan konten
-  • Penyesuaian tampilan agar lebih nyaman digunakan
-  • Bug hang/stag saat keluar dari APK/STB telah diperbaiki
-  • User kini bisa mengedit subtitle di pengaturan subtitle tanpa bug
+  🚀 CloudPlay v1.6.5
 
-apk: "https://github.com/CodeSanzz/ReCloudPlay/releases/download/v1.6.4/CloudPlay_v1.6.4_By_ModSanz.apk"
+apk: "https://sfile.co/8IHPrOvr5Sz"
